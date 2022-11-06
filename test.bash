@@ -11,5 +11,7 @@ res=0
 out=$(seq 5 | ./plus)
 [ "${out}" = 14 ] || ng ${LINENO}
 
+### STRANGE INPUT ###
+out=$(echo あ | ./plus
 [ "$res" = 0 ] && echo OK
 exit $res
