@@ -7,7 +7,6 @@ echo NG at Line $1
 res=1
 }
 res=0
-+res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
