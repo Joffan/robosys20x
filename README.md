@@ -10,7 +10,10 @@
 * Ubuntu
 
 ## インストール方法
-  * $ git clone git:https://github.com/Joffan/robosys2022/plus.git
+  * ``$ git clone git:https://github.com/Joffan/robosys20x/plus.git `` 
+## 実行例
+`` $ seq 10 | ./plus`` 
+`` $ seq 10 | ./plus`` 
 
 ## 権利について
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
