@@ -1,4 +1,13 @@
 # robosys20x
+# plusコマンド
+![test](https://github.com/Joffan/robosys2022/actions/workflows/test.yml/badge.svg)
+
+##必要なソフトウェア
+*Python
+ *テスト済み : 3.7~3.10
+
+#テスト環境
+*Ubuntu
 説明を適当に
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージは，aaa由来のコード（© 2022 Hoge Fuge）を利用しています．
