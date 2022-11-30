@@ -1,5 +1,6 @@
 ##  Robosys2022
 ##  plusコマンド
+* 標準入力から読み込んだすうじを足す
 ![test](https://github.com/Joffan/robosys20x/actions/workflows/test.yml/badge.svg)
 
 ## 必要なソフトウェア
@@ -12,7 +13,7 @@
 ## インストール方法
   * ``$ git clone git:https://github.com/Joffan/robosys20x/plus.git `` 
 ## 実行例
-`` $ seq 10 | ./plus`` 
+`` $ seq 10 | ./plus
 `` $ seq 10 | ./plus`` 
 
 ## 権利について
