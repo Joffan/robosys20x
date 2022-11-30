@@ -1,6 +1,6 @@
 #Robosys2022
 #plusコマンド
-[test](https://github.com/Joffan/robosys2022/actions/workflows/test.yml/badge.svg)
+[test](https://github.com/Joffan/robosys20x/actions/workflows/test.yml/badge.svg)
 
 #必要なソフトウェア
  * Python
